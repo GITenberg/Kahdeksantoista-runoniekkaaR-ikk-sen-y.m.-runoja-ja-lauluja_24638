@@ -1,0 +1,31 @@
+_repo: Kahdeksantoista-runoniekkaaR-ikk-sen-y.m.-runoja-ja-lauluja_24638
+_version: 0.1.0
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  editor:
+    agent_name: Grotenfelt, Kustavi
+    alias: Grotenfelt, Gustaf
+    birthdate: 1861
+    deathdate: 1928
+    gutenberg_agent_id: '26640'
+    url: http://www.gutenberg.org/2009/agents/26640
+description: ''
+gutenberg_issued: '2008-02-18'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '24638'
+language: fi
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcc 'PH'
+- !lcsh 'Finnish poetry'
+title: 'Kahdeksantoista runoniekkaa
+
+  Valikoima Korhosen, Lyytisen, Makkosen, Kymäläisen, Puhakan,
+
+  Räikkösen y.m. runoja ja lauluja'
+url: http://www.gutenberg.org/ebooks/24638
